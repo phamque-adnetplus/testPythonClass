@@ -1,6 +1,5 @@
 def func():
     s = input("Input a string: ")
-    s = int(s)
     d=l=0
     for c in s:
         if c.isdigit():
